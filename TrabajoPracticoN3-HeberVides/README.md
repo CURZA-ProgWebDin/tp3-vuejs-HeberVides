@@ -1,5 +1,5 @@
-# Vue 3 + Vite
-
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Para poder correr el proyecto se debe:
+1- Clonar el repositorio
+2- Entrar a la carpeta TrabajoPracticoN3-HeberVides
+3- Instalar las dependencias (npm install)
+4- Iniciar el proyecto (npm run dev)
